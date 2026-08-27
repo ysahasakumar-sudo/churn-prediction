@@ -63,8 +63,4 @@ tied.
 Main churn drivers: tenure, contract type, fibre-optic internet, total
 charges, electronic-cheque payment.
 
-## Contact
 
-Student: [your name]
-Student ID: [your ID]
-Module leader: Sunina Sharvy (s.sharvy@herts.ac.uk)
